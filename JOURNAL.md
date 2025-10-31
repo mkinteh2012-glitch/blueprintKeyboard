@@ -10,5 +10,7 @@
 
 After some web browsing, I finally decided to make a 75% keypad, I need to figure out how to make the PCB and get my schematic to work I still need to decide what chip to us. The Keyboard will be Bluetooth so I'll need my own battery in the keyboard but I'll do that later I'll probably do that today and figure out what key switches to use I want it  to be clicky but not so loud that it's annoying, This will not be a split keyboard because I don't want to try that maybe I'll try to make a mouse to go with this if I have extra time my image is off the layout I've decided I also need to do a choose my colors. 
 ![Screenshot 2025-10-30 154315](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg0MywicHVyIjoiYmxvYl9pZCJ9fQ==--4afac7ff5678338ca10b5be6b3186f1ef54b7f4c/Screenshot%202025-10-30%20154315.png)
+This is the link to my layout
+ https://www.keyboard-layout-editor.com/#/layouts/a940494ec317cf857ac0ef6b8434efe4
   
 
