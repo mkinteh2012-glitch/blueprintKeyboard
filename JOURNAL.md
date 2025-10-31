@@ -14,3 +14,12 @@ This is the link to my layout
  https://www.keyboard-layout-editor.com/#/layouts/a940494ec317cf857ac0ef6b8434efe4
   
 
+## 10/31/2025 - Finished up the design  
+
+Found some inspiration for my color design, I'm going for a red black and white design My choice of switches is the Otemu Blue Switches the price is 20 cents per switches so around 21 dollars for me I decided for my switches to get the Carbon PBT Double Shot Orange Keycap Set this included all the Keycaps I want and also color replacements. I'll decide the chip as I start designing the PCB, I made some changes to the layout, next I'll start my scematic.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzAxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--5a1ef064881e2002c554b56b0b13b91e765b96c2/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzAyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--83424f785650dc6760fdde5d5655411dc4dbc65f/image.png)
+
+  
+
