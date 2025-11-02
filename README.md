@@ -33,5 +33,5 @@ This is my custom 84-key mechanical keyboard PCB project, designed from scratch 
 
 ---
 
-💡 Built by [Your Name] — part of Hack Club Blueprint 🚀
+💡 Built by Muhammad Kinteh as part of Hack Club Blueprint 🚀
 
