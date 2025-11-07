@@ -23,3 +23,8 @@ Found some inspiration for my color design, I'm going for a red black and white 
 
   
 
+## 11/6/2025 - Did my Read.Me  
+
+I decided to write my read.me before i start because it is something i often forget to do I'm still trying to design it I don't have much to say besides that I'm almost done with my scematic and PCB that'll be the next journal![Screenshot 2025-11-06 163541](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTAyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--587053ae315d1841fda066c3c1438f670fca48f7/Screenshot%202025-11-06%20163541.png)
+  
+
